@@ -1,14 +1,14 @@
-# vt-clj
+# vt-clj:
 
-A Clojure library designed to ... well, that part is up to you.
+A Clojure library for interacting with Veritrans payment gateway. This is not an Veritrans official library.
 
 ## Usage
 
-FIXME
+To do
 
 ## License
 
-Copyright © 2016 FIXME
+Copyright © 2016 Asep.co
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
